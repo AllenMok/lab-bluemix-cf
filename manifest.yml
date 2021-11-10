@@ -6,7 +6,7 @@ applications:
   instances: 2
   memory: 128M
   routes:
-  - route: lab-bluemix-cf.us-south.cf.appdomain.cloud
+  - route: lab-bluemix-ym.us-south.cf.appdomain.cloud
   disk_quota: 1024M
   buildpacks: 
   - python_buildpack
