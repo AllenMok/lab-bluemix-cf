@@ -3,7 +3,7 @@
 applications:
 - name: lab-bluemix-cf
   path: .
-  instances: 2
+  instances: 1
   memory: 64M
   routes:
   - route: lab-bluemix-cf.us-south.cf.appdomain.cloud
